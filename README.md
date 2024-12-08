@@ -18,7 +18,7 @@ Untuk menjalankan proyek ini, perlu mengatur CUDA, cuDNN, dan PyTorch, serta men
 
 ### Langkah 2: Instal Python dan Pustaka
 
-1. **Versi Python**  : Proyek ini membutuhkan Python versi 3.7 atau lebih baru. Dapat diunduh dari [python.org](https://www.python.org/downloads/).
+1. **Versi Python**  : Proyek ini membutuhkan Python versi 3.7 atau lebih baru. Dapat diunduh dari [Python](https://www.python.org/downloads/).
 2. **Pustaka**       : Pustaka yang digunakan mencakup sebagai berikut:
    
                        -torch
