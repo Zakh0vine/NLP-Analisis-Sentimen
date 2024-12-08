@@ -12,7 +12,9 @@ Untuk menjalankan proyek ini, perlu mengatur CUDA, cuDNN, dan PyTorch, serta men
 1. **Instal CUDA**   : Pastikan menginstal versi CUDA yang sesuai.
                        Ikuti panduan resmi untuk menginstal [CUDA](https://developer.nvidia.com/cuda-downloads) berdasarkan konfigurasi sistem yang tersedia.
    
-3. **Instal cuDNN**  : Unduh dan instal [cuDNN](https://developer.nvidia.com/cudnn) yang kompatibel dengan versi CUDA yang siap digunakan.
+2. **Instal cuDNN**  : Unduh dan instal [cuDNN](https://developer.nvidia.com/cudnn) yang kompatibel dengan versi CUDA yang siap digunakan.
+   
+3. **Instal Pytorch** : Unduh dan instal [Pytorch](https://pytorch.org/) yang kompatibel dengan versi CUDA yang siap digunakan.
 
 ### Langkah 2: Instal Python dan Pustaka
 
