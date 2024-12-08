@@ -18,12 +18,13 @@ Untuk menjalankan proyek ini, perlu mengatur CUDA, cuDNN, dan PyTorch, serta men
 
 1. **Versi Python**  : Proyek ini membutuhkan Python versi 3.7 atau lebih baru. Dapat diunduh dari [python.org](https://www.python.org/downloads/).
 2. **Pustaka**       : Pustaka yang digunakan mencakup sebagai berikut:
+   
                        -torch
                        -transformers
                        -pandas
                        -scikit-learn
                        -numpy
-                       -0matplotlib
+                       -matplotlib
 
 ### Langkah 3: Jalankan Program
 
