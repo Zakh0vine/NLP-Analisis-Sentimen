@@ -33,13 +33,10 @@ Untuk menjalankan proyek ini, perlu mengatur CUDA, cuDNN, dan PyTorch, serta men
 
 ### Deskripsi Proyek
 
-**Tujuan**           : 
-Tujuan dari proyek ini adalah melatih sebuah model untuk melakukan analisis sentimen pada data teks, yang mengklasifikasikan teks ke dalam tiga kategori:
--Posit
--Netral
--Negatif
+**Tujuan**           : Tujuan dari proyek ini adalah melatih sebuah model untuk melakukan analisis sentimen pada data teks, yang mengklasifikasikan teks ke dalam tiga kategori: Posit, Netral, Negatif
 
-**File**             : 
+**File**             :
+
 **NLP.py**: Skrip utama yang memuat data, memprosesnya, melatih model BERT, dan mengevaluasi model.
 **sentiment_analysis.csv**: Dataset yang digunakan untuk pelatihan, berisi data teks dan label sentimen yang sesuai.
 **precision_recall_f1.png**: Gambar yang menyimpan metrik Precision, Recall, dan F1-Score untuk setiap kelas.
