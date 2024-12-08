@@ -34,20 +34,24 @@ Untuk menjalankan proyek ini, perlu mengatur CUDA, cuDNN, dan PyTorch, serta men
 2. **Running**       : Jalankan printah **"Python NLP.py"** pada terminal IDE. Ini akan melatih model analisis sentimen menggunakan dataset yang disediakan dan menampilkan
                        metrik evaluasi seperti Precision, Recall, dan F1-Score untuk setiap kelas. Program ini juga akan menyimpan model dan tokenizer di direktori yang ditentukan.
 
-### Deskripsi Proyek
+## Deskripsi Proyek
 
-**Tujuan**           : Tujuan dari proyek ini adalah melatih sebuah model untuk melakukan analisis sentimen pada data teks, yang mengklasifikasikan teks ke dalam tiga kategori: Posit, Netral, Negatif
+### Tujuan 
 
-**File**             :
+Tujuan dari proyek ini adalah melatih sebuah model untuk melakukan analisis sentimen pada data teks, yang mengklasifikasikan teks ke dalam tiga kategori: Posit, Netral, Negatif
+
+### File            
 
 **NLP.py**: Skrip utama yang memuat data, memprosesnya, melatih model BERT, dan mengevaluasi model.
 **sentiment_analysis.csv**: Dataset yang digunakan untuk pelatihan, berisi data teks dan label sentimen yang sesuai.
 **precision_recall_f1.png**: Gambar yang menyimpan metrik Precision, Recall, dan F1-Score untuk setiap kelas.
 
-**Model**            : 
+### Model
+
 BERT (Bidirectional Encoder Representations from Transformers) digunakan untuk melakukan klasifikasi urutan untuk analisis sentimen.
 
-**Metrik Evaluasi**  : 
+### Metrik Evaluasi
+
 Kinerja model dievaluasi menggunakan metrik klasifikasi, termasuk Precision, Recall, dan F1-Score.
 
 ![precision_recall_f1](https://github.com/user-attachments/assets/6d8006b2-9bd2-4157-a087-e70a26636baa)
