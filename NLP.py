@@ -14,7 +14,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
 # 1. Load Dataset
-file_path = "Z:/Documents/RCNN-Model/sentiment_analysis.csv"
+file_path = "LOKASI DATASETNYA, Contoh : C:/Documents/Folder1/namadataset.csv"
 data = pd.read_csv(file_path)
 
 # 2. Pra-pemrosesan Data
